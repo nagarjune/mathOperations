@@ -1,0 +1,20 @@
+package.json:{
+			  "name": "math-operations",
+			  "version": "1.0.0",
+			  "description": "A simple SDK for basic mathematical operations.",
+			  "main": "mathOperations.js",
+			  "repository": {
+			    "type": "git",
+			    "url": "git+https://github.com/nagarjune/mathOperations.git"
+			  },
+			  "scripts": {
+			    "test": "echo \"Error: no test specified\" && exit 1"
+			  },
+			  "keywords": ["math", "operations", "sdk"],
+			  "author": "Nagarjun E",
+			  "license": "ISC",
+			  "bugs": {
+			    "url": "https://github.com/nagarjune/mathOperations/issues"
+			  },
+			  "homepage": "https://github.com/nagarjune/mathOperations#readme"
+			}
