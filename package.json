@@ -1,5 +1,5 @@
 {
-			  "name": "@nagarjune/mathoperations",
+			  "name": "mathoperations_nagarjune",
 			  "version": "1.0.0",
 			  "description": "A simple SDK for basic mathematical operations.",
 			  "main": "mathOperations.js",
