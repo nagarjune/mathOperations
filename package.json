@@ -1,5 +1,5 @@
 package.json:{
-			  "name": "math-operations",
+			  "name": "mathsoperations",
 			  "version": "1.0.0",
 			  "description": "A simple SDK for basic mathematical operations.",
 			  "main": "mathOperations.js",
