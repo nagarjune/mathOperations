@@ -1,5 +1,5 @@
-package.json:{
-			  "name": "mathsoperations",
+{
+			  "name": "@nagarjune/mathoperations",
 			  "version": "1.0.0",
 			  "description": "A simple SDK for basic mathematical operations.",
 			  "main": "mathOperations.js",
@@ -17,4 +17,4 @@ package.json:{
 			    "url": "https://github.com/nagarjune/mathOperations/issues"
 			  },
 			  "homepage": "https://github.com/nagarjune/mathOperations#readme"
-			}
+}
